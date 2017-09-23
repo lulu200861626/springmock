@@ -1,0 +1,10 @@
+.idea/
+target/
+.idea/*
+*.log
+*.iml
+.DS_Store
+database.properties
+env.properties
+log4j.properties
+
